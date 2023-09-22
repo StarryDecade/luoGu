@@ -7,7 +7,7 @@
 - 经典算法，把前序中序 or 后序中序 生成树
 - 结构体
 
-> ```c++
+```c++
 struct node {
     char val;
     node *left;
