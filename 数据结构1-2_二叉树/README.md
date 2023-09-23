@@ -27,3 +27,7 @@
 07 [P1305 新二叉树](https://www.luogu.com.cn/problem/P1305)
 
 1. √
+
+08 [P1030 [NOIP2001 普及组] 求先序排列](https://www.luogu.com.cn/problem/P1030)
+
+1. × —— 边界范围取值
