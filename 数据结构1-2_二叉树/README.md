@@ -19,3 +19,7 @@
 05 [P1364 医院设置](https://www.luogu.com.cn/problem/P1364)
 
 1. x —— 直接遍历
+
+06 [P1229 遍历问题](https://www.luogu.com.cn/problem/P1229)
+
+1. ×
