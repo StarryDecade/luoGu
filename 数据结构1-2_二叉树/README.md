@@ -15,3 +15,7 @@
 04 [P5076 【深基16.例7】普通二叉树（简化版）](https://www.luogu.com.cn/problem/P5076)
 
 1. × —— 二叉搜索树
+
+05 [P1364 医院设置](https://www.luogu.com.cn/problem/P1364)
+
+1. x —— 直接遍历
