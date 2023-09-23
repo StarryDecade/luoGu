@@ -23,3 +23,7 @@
 06 [P1229 遍历问题](https://www.luogu.com.cn/problem/P1229)
 
 1. ×
+
+07 [P1305 新二叉树](https://www.luogu.com.cn/problem/P1305)
+
+1. √
