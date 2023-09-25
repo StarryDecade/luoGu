@@ -9,3 +9,11 @@
 3 [P1069 [NOIP2009 普及组] 细胞分裂](https://www.luogu.com.cn/problem/P1069)
 
 1. ×
+
+4 [P1572 计算分数](https://www.luogu.com.cn/problem/P1572)
+
+1. × —— 模拟
+
+5 [P4057 [Code+#1] 晨跑](luogu.com.cn/problem/P4057)
+
+1. × —— 三个数的最小公倍数
