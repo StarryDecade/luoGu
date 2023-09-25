@@ -21,3 +21,7 @@
 6 [P1414 又是毕业季II](https://www.luogu.com.cn/problem/P1414)
 
 1 × —— 多个数的最大公约数的求法
+
+7 [P2651 添加括号III](https://www.luogu.com.cn/problem/P2651)
+
+1 × 
