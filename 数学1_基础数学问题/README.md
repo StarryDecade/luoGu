@@ -17,3 +17,7 @@
 5 [P4057 [Code+#1] 晨跑](luogu.com.cn/problem/P4057)
 
 1. × —— 三个数的最小公倍数
+
+6 [P1414 又是毕业季II](https://www.luogu.com.cn/problem/P1414)
+
+1 × —— 多个数的最大公约数的求法
