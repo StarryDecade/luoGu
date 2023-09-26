@@ -29,3 +29,10 @@
 8 [P2660 zzc 种田](https://www.luogu.com.cn/problem/P2660)
 
 1 ×
+
+9 
+
+
+10 [P1403 [AHOI2005] 约数研究](https://www.luogu.com.cn/problem/P1403)
+
+1. ×
