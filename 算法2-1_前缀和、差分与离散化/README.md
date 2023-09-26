@@ -9,3 +9,7 @@
 3 [P2367 语文成绩](https://www.luogu.com.cn/problem/P2367)
 
 1. ×
+
+4 [P1496 火烧赤壁](https://www.luogu.com.cn/problem/P1496)
+
+1. ×
