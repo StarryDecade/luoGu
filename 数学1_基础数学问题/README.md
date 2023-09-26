@@ -25,3 +25,7 @@
 7 [P2651 添加括号III](https://www.luogu.com.cn/problem/P2651)
 
 1 × 
+
+8 [P2660 zzc 种田](https://www.luogu.com.cn/problem/P2660)
+
+1 ×
