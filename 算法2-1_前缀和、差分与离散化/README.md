@@ -17,3 +17,7 @@
 5 [P3017 [USACO11MAR] Brownie Slicing G](https://www.luogu.com.cn/problem/P3017)
 
 1. × —— 二分 + 矩阵压缩
+
+6 [P1904 天际线 题解](https://www.luogu.com.cn/problem/solution/P1904)
+
+1. ×
