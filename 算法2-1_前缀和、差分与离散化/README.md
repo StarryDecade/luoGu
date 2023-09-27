@@ -21,3 +21,7 @@
 6 [P1904 天际线 题解](https://www.luogu.com.cn/problem/solution/P1904)
 
 1. ×
+
+7 [P1314 [NOIP2011 提高组] 聪明的质监员](https://www.luogu.com.cn/problem/P1314)
+
+1. × —— 二分 + 前缀和
