@@ -13,3 +13,7 @@
 4 [P1496 火烧赤壁](https://www.luogu.com.cn/problem/P1496)
 
 1. ×
+
+5 [P3017 [USACO11MAR] Brownie Slicing G](https://www.luogu.com.cn/problem/P3017)
+
+1. × —— 二分 + 矩阵压缩
