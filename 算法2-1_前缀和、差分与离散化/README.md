@@ -28,4 +28,8 @@
 
 8 [P1955 [NOI2015] 程序自动分析](https://www.luogu.com.cn/problem/P1955#submit)
 
-1. —— 离散化 + 并查集
+1. × —— 离散化 + 并查集
+
+9 [P1884 [USACO12FEB] Overplanting S](https://www.luogu.com.cn/problem/P1884)
+
+1. × —— 线段树 + 扫描线
