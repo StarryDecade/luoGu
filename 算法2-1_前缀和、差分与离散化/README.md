@@ -25,3 +25,7 @@
 7 [P1314 [NOIP2011 提高组] 聪明的质监员](https://www.luogu.com.cn/problem/P1314)
 
 1. × —— 二分 + 前缀和
+
+8 [P1955 [NOI2015] 程序自动分析](https://www.luogu.com.cn/problem/P1955#submit)
+
+1. —— 离散化 + 并查集
