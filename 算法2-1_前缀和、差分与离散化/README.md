@@ -37,3 +37,7 @@
 10 [P1083 [NOIP2012 提高组] 借教室](https://www.luogu.com.cn/problem/P1083)
 
 1. × —— 差分 + 二分 也可以用线段树
+
+11 [P2882 [USACO07MAR] Face The Right Way G](https://www.luogu.com.cn/problem/P2882)
+
+1. × —— 贪心 + 差分
