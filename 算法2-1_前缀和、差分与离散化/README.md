@@ -41,3 +41,7 @@
 11 [P2882 [USACO07MAR] Face The Right Way G](https://www.luogu.com.cn/problem/P2882)
 
 1. × —— 贪心 + 差分
+
+12 [P4552 [Poetize6] IncDec Sequence](https://www.luogu.com.cn/problem/P4552)
+
+1. × —— 差分, 模板题
