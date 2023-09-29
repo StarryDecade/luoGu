@@ -33,3 +33,7 @@
 9 [P1884 [USACO12FEB] Overplanting S](https://www.luogu.com.cn/problem/P1884)
 
 1. × —— 线段树 + 扫描线
+
+10 [P1083 [NOIP2012 提高组] 借教室](https://www.luogu.com.cn/problem/P1083)
+
+1. × —— 差分 + 二分 也可以用线段树
