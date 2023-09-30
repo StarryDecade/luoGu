@@ -49,3 +49,7 @@
 13 [P3029 [USACO11NOV] Cow Lineup S](https://www.luogu.com.cn/problem/P3029)
 
 1. × —— 离散化 + 双指针
+
+14 [P4375 [USACO18OPEN] Out of Sorts G](https://www.luogu.com.cn/problem/P4375)
+
+1 × —— 模拟 + 离散化
