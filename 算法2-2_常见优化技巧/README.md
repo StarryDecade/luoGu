@@ -9,3 +9,7 @@
 3 [P4147 玉蟾宫](https://www.luogu.com.cn/problem/P4147)
 
 1. × —— 悬线法
+
+4 [P2866 [USACO06NOV] Bad Hair Day S](https://www.luogu.com.cn/problem/P2866)
+
+1. × —— 栈 + 模拟
