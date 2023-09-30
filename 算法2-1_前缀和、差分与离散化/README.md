@@ -45,3 +45,7 @@
 12 [P4552 [Poetize6] IncDec Sequence](https://www.luogu.com.cn/problem/P4552)
 
 1. × —— 差分, 模板题
+
+13 [P3029 [USACO11NOV] Cow Lineup S](https://www.luogu.com.cn/problem/P3029)
+
+1. × —— 离散化 + 双指针
