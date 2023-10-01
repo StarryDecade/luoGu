@@ -17,3 +17,7 @@
 5 [P1950 长方形](https://www.luogu.com.cn/problem/P1950)
 
 1. x —— 单调栈
+
+6 [P2032 扫描](https://www.luogu.com.cn/problem/P2032)
+
+1. × —— 双端队列
