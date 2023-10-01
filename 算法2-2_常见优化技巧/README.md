@@ -24,4 +24,8 @@
 
 7 [P2216 [HAOI2007] 理想的正方形](https://www.luogu.com.cn/problem/P2216)
 
-1. 单调队列
+1. × —— 单调队列
+
+8 [P4653 [CEOI2017] Sure Bet](https://www.luogu.com.cn/problem/P4653)
+
+1. × —— 双指针
