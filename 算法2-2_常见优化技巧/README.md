@@ -13,3 +13,7 @@
 4 [P2866 [USACO06NOV] Bad Hair Day S](https://www.luogu.com.cn/problem/P2866)
 
 1. × —— 栈 + 模拟
+
+5 [P1950 长方形](https://www.luogu.com.cn/problem/P1950)
+
+1. x —— 单调栈
