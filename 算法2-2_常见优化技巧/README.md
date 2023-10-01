@@ -33,3 +33,7 @@
 9 [P4653 [CEOI2017] Sure Bet](https://www.luogu.com.cn/problem/P4653)
 
 1. × —— 双指针
+
+10 [P3143 [USACO16OPEN] Diamond Collector S](https://www.luogu.com.cn/problem/P3143)
+
+1. × —— 双指针
