@@ -29,3 +29,7 @@
 8 [P4653 [CEOI2017] Sure Bet](https://www.luogu.com.cn/problem/P4653)
 
 1. × —— 双指针
+
+9 [P4653 [CEOI2017] Sure Bet](https://www.luogu.com.cn/problem/P4653)
+
+1. × —— 双指针
