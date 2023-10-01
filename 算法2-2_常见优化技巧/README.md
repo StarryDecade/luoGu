@@ -21,3 +21,7 @@
 6 [P2032 扫描](https://www.luogu.com.cn/problem/P2032)
 
 1. × —— 双端队列
+
+7 [P2216 [HAOI2007] 理想的正方形](https://www.luogu.com.cn/problem/P2216)
+
+1. 单调队列
