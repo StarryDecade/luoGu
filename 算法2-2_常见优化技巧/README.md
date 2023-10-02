@@ -37,3 +37,7 @@
 10 [P3143 [USACO16OPEN] Diamond Collector S](https://www.luogu.com.cn/problem/P3143)
 
 1. × —— 双指针
+
+11 [P7910 [CSP-J 2021] 插入排序](https://www.luogu.com.cn/problem/P7910)
+
+1. × —— 模拟
