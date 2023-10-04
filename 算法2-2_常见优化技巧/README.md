@@ -41,3 +41,11 @@
 11 [P7910 [CSP-J 2021] 插入排序](https://www.luogu.com.cn/problem/P7910)
 
 1. × —— 模拟
+
+12 [P1578 奶牛浴场](https://www.luogu.com.cn/problem/P1578)
+
+1. × —— 最大子矩阵 + 遍历点
+
+13 [P3467 [POI2008] PLA-Postering](https://www.luogu.com.cn/problem/P3467)
+
+1. × —— 单调栈 
