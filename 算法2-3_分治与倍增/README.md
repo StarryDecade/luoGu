@@ -9,3 +9,7 @@
 03 [P1226 【模板】快速幂](https://www.luogu.com.cn/problem/P1226)
 
 1. × —— 快速幂（模板）
+
+04 [P1045 [NOIP2003 普及组] 麦森数](https://www.luogu.com.cn/problem/P1045)
+
+1. × —— 快速幂 + 高精度乘法
