@@ -49,3 +49,7 @@
 13 [P3467 [POI2008] PLA-Postering](https://www.luogu.com.cn/problem/P3467)
 
 1. × —— 单调栈 
+
+14 [P1714 切蛋糕](https://www.luogu.com.cn/problem/P1714)
+
+1. × —— 前缀和 + 单调队列 
