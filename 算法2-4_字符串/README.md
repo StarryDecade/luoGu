@@ -9,3 +9,7 @@
 03 [P1481 魔族密码](https://www.luogu.com.cn/problem/P1481)
 
 1. × —— 最长上升子序列 + find的应用
+
+04 [P2580 于是他错误的点名开始了](https://www.luogu.com.cn/problem/P2580)
+
+1. × —— map
