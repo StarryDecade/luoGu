@@ -12,4 +12,4 @@
 
 04 [P2580 于是他错误的点名开始了](https://www.luogu.com.cn/problem/P2580)
 
-1. × —— map
+1. × —— map  || 字典树模板题
