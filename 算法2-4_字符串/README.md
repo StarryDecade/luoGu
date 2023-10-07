@@ -5,3 +5,7 @@
 02 [P4391 [BOI2009] Radio Transmission 无线传输](https://www.luogu.com.cn/problem/P4391)
 
 1. × —— next数组的应用
+
+03 [P1481 魔族密码](https://www.luogu.com.cn/problem/P1481)
+
+1. × —— 最长上升子序列 + find的应用
