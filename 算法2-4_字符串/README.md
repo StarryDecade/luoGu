@@ -13,3 +13,11 @@
 04 [P2580 于是他错误的点名开始了](https://www.luogu.com.cn/problem/P2580)
 
 1. × —— map  || 字典树模板题
+
+05 [P4551 最长异或路径](https://www.luogu.com.cn/problem/P4551)
+
+1. × —— 字典树 + 异或
+
+06 [P1470 [USACO2.3] 最长前缀 Longest Prefix](https://www.luogu.com.cn/problem/P1470)
+
+1. × —— dp
