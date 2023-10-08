@@ -21,3 +21,7 @@
 06 [P1470 [USACO2.3] 最长前缀 Longest Prefix](https://www.luogu.com.cn/problem/P1470)
 
 1. × —— dp
+
+07 [P3435 [POI2006] OKR-Periods of Words](https://www.luogu.com.cn/problem/P3435)
+
+1. × —— kmp 前缀应用
