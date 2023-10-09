@@ -29,3 +29,7 @@
 08 [P2375 [NOI2014] 动物园](https://www.luogu.com.cn/problem/P2375) 
 
 1. × —— kmp（nxt数组的应用） + 前缀和
+
+09 [P2922 [USACO08DEC] Secret Message G](https://www.luogu.com.cn/problem/P2922)
+
+1. × —— 字典树（模板题）
