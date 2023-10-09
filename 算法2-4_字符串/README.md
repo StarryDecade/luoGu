@@ -33,3 +33,7 @@
 09 [P2922 [USACO08DEC] Secret Message G](https://www.luogu.com.cn/problem/P2922)
 
 1. × —— 字典树（模板题）
+
+10 [P6824 「EZEC-4」可乐](https://www.luogu.com.cn/problem/P6824)
+
+1. × —— 字典树 + 异或后数的大小
