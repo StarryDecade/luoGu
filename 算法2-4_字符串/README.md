@@ -25,3 +25,7 @@
 07 [P3435 [POI2006] OKR-Periods of Words](https://www.luogu.com.cn/problem/P3435)
 
 1. × —— kmp 前缀应用
+
+08 [P2375 [NOI2014] 动物园](https://www.luogu.com.cn/problem/P2375) 
+
+1. × —— kmp（nxt数组的应用） + 前缀和
