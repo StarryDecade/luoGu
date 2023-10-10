@@ -9,3 +9,7 @@
 03 [Anya and Cubes](https://www.luogu.com.cn/problem/CF525E)
 
 1. × —— 折半搜索(meet in the middle) + unordered map
+
+04 [P1379 八数码难题](https://www.luogu.com.cn/problem/P1379)
+
+1. × —— bfs
