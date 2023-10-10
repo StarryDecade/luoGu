@@ -5,3 +5,7 @@
 02 [P1120 小木棍](https://www.luogu.com.cn/problem/P1120)
 
 1. × —— dfs剪枝
+
+03 [Anya and Cubes](https://www.luogu.com.cn/problem/CF525E)
+
+1. × —— 折半搜索(meet in the middle) + unordered map
