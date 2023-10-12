@@ -13,3 +13,7 @@
 04 [P1379 八数码难题](https://www.luogu.com.cn/problem/P1379)
 
 1. × —— bfs
+
+05 [P5507 机关](https://www.luogu.com.cn/problem/P5507)
+
+1. × —— 双向搜索 + A Start
