@@ -17,3 +17,7 @@
 05 [P5507 机关](https://www.luogu.com.cn/problem/P5507)
 
 1. × —— 双向搜索 + A Start
+
+06 [P2324 [SCOI2005] 骑士精神](https://www.luogu.com.cn/problem/P2324)
+
+1. × —— A * IDA ∗
