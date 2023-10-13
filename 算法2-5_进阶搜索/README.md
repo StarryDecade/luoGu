@@ -21,3 +21,7 @@
 06 [P2324 [SCOI2005] 骑士精神](https://www.luogu.com.cn/problem/P2324)
 
 1. × —— A * IDA ∗
+
+07 [P1074 [NOIP2009 提高组] 靶形数独](https://www.luogu.com.cn/problem/P1074)
+
+1. × —— 打表 + dfs
