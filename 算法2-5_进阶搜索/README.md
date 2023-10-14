@@ -25,3 +25,7 @@
 07 [P1074 [NOIP2009 提高组] 靶形数独](https://www.luogu.com.cn/problem/P1074)
 
 1. × —— 打表 + dfs
+
+08 [P1312 [NOIP2011 提高组] Mayan 游戏](https://www.luogu.com.cn/problem/P1312)
+
+1. × —— 搜索 + 回溯
